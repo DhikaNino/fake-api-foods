@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng Spesial",
+    "preview": "Nasi goreng dengan telur dan ayam",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "20000",
+    "category": "Makanan",
+    "rating": 4.5,
+    "discountPercent": 10,
+    "location": "Kampung Tenjo"
+  },
+  {
+    "id": 2,
+    "name": "Mie Ayam",
+    "preview": "Mie ayam gurih dengan bakso",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "15000",
+    "category": "Makanan",
+    "rating": 4.6,
+    "discountPercent": 5,
+    "location": "Kampung Sukamulya"
+  },
+  {
+    "id": 3,
+    "name": "Es Teh Manis",
+    "preview": "Minuman segar untuk cuaca panas",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "5000",
+    "category": "Minuman",
+    "rating": 4.8,
+    "location": "Kampung Cibogo"
+  },
+  {
+    "id": 4,
+    "name": "Sate Ayam",
+    "preview": "Sate ayam dengan bumbu kacang",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "25000",
+    "category": "Makanan",
+    "rating": 4.7,
+    "discountPercent": 15,
+    "location": "Kampung Babakan"
+  },
+  {
+    "id": 5,
+    "name": "Bakso Urat",
+    "preview": "Bakso urat isi daging sapi asli",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "18000",
+    "category": "Makanan",
+    "rating": 4.9,
+    "location": "Kampung Cihuni"
+  },
+  {
+    "id": 6,
+    "name": "Jus Alpukat",
+    "preview": "Jus alpukat segar dan creamy",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "10000",
+    "category": "Minuman",
+    "rating": 4.4,
+    "location": "Kampung Rancaekek"
+  },
+  {
+    "id": 7,
+    "name": "Ayam Geprek",
+    "preview": "Ayam geprek pedas level 5",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "22000",
+    "category": "Makanan",
+    "rating": 4.6,
+    "discountPercent": 20,
+    "location": "Kampung Karang Tengah"
+  },
+  {
+    "id": 8,
+    "name": "Soto Betawi",
+    "preview": "Soto betawi khas Jakarta",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "28000",
+    "category": "Makanan",
+    "rating": 4.5,
+    "location": "Kampung Parung"
+  },
+  {
+    "id": 9,
+    "name": "Teh Tarik",
+    "preview": "Teh tarik manis dan creamy",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "8000",
+    "category": "Minuman",
+    "rating": 4.3,
+    "location": "Kampung Ciseeng"
+  },
+  {
+    "id": 10,
+    "name": "Lontong Sayur",
+    "preview": "Lontong dengan kuah sayur gurih",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "12000",
+    "category": "Makanan",
+    "rating": 4.2,
+    "location": "Kampung Bojong"
+  },
+  {
+    "id": 11,
+    "name": "Rendang Padang",
+    "preview": "Rendang daging sapi asli Padang",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "30000",
+    "category": "Makanan",
+    "rating": 4.9,
+    "discountPercent": 10,
+    "location": "Kampung Cibadak"
+  },
+  {
+    "id": 12,
+    "name": "Kopi Hitam",
+    "preview": "Kopi robusta khas kampung",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "7000",
+    "category": "Minuman",
+    "rating": 4.4,
+    "location": "Kampung Jampang"
+  },
+  {
+    "id": 13,
+    "name": "Seblak Pedas",
+    "preview": "Seblak kering level 10",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "15000",
+    "category": "Makanan",
+    "rating": 4.3,
+    "discountPercent": 5,
+    "location": "Kampung Sayang Heulang"
+  },
+  {
+    "id": 14,
+    "name": "Cilok Bumbu Kacang",
+    "preview": "Cilok isi daging + saus kacang",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "10000",
+    "category": "Makanan",
+    "rating": 4.6,
+    "location": "Kampung Cisaat"
+  },
+  {
+    "id": 15,
+    "name": "Air Mineral Botol",
+    "preview": "Air mineral 600ml",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "3000",
+    "category": "Minuman",
+    "rating": 4.0,
+    "location": "Kampung Sirnarasa"
+  },
+  {
+    "id": 16,
+    "name": "Dadar Gulung",
+    "preview": "Dadar isi kelapa manis",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "7000",
+    "category": "Makanan",
+    "rating": 4.5,
+    "location": "Kampung Cibereum"
+  },
+  {
+    "id": 17,
+    "name": "Es Campur",
+    "preview": "Segar es campur isi lengkap",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "12000",
+    "category": "Minuman",
+    "rating": 4.6,
+    "location": "Kampung Lembang"
+  },
+  {
+    "id": 18,
+    "name": "Bubur Ayam",
+    "preview": "Bubur ayam dengan kerupuk",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "10000",
+    "category": "Makanan",
+    "rating": 4.2,
+    "location": "Kampung Cijeruk"
+  },
+  {
+    "id": 19,
+    "name": "Kerupuk Jengkol",
+    "preview": "Kerupuk pedas gurih",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "6000",
+    "category": "Makanan",
+    "rating": 4.1,
+    "location": "Kampung Cihideung"
+  },
+  {
+    "id": 20,
+    "name": "Martabak Manis",
+    "preview": "Martabak manis cokelat keju",
+    "imagePath": "https://picsum.photos/seed/makanan/400/300",
+    "price": "25000",
+    "category": "Makanan",
+    "rating": 4.8,
+    "discountPercent": 15,
+    "location": "Kampung Cikaret"
+  }
+]
